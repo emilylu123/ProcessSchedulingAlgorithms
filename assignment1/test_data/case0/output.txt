@@ -1,0 +1,8 @@
+AGING
+
+name   arrival   end   ready   running   waiting
+a2        60       210       170        40         0
+a1        10       980        10       240       730
+a3        40      1225        90       335       800
+a4        60      1390       210       395       785
+a0        70      1460       290       440       730

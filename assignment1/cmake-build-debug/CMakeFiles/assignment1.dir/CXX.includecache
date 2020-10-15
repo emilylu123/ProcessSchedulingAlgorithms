@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/emily/Desktop/WorkPlace/2020/s2/os/assignment1/TicketBooker.cpp
+cctype
+-
+queue
+-
+vector
+-
+iostream
+-
+sstream
+-
+fstream
+-
+functional
+-
+utility
+-
+algorithm
+-
+
